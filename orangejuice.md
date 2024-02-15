@@ -1,5 +1,5 @@
 # Ingredients
-- orange
+- oranges
 
 # Instructions
-1. Juice orange.
+1. Juice oranges.
